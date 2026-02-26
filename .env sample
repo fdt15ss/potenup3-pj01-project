@@ -1,0 +1,6 @@
+SEOUL_PUBLIC_API_KEY = "helloworld"
+PUBLIC_DATA_API_KEY = "helloworld"
+PUBLIC_DATA_API_KEY_getStanReginCdList = "helloworld"
+X-Naver-Client-Id = "helloworld"
+X-Naver-Client-Secret = "helloworld"
+YOUTUBE_API_KEY = "helloworld"
