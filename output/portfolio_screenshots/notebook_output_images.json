@@ -1,0 +1,122 @@
+[
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\[프로젝트]_1조_데이터_트렌드_분석_cell012_out01_1.png",
+    "notebook": "[프로젝트] 1조_데이터_트렌드_분석.ipynb",
+    "cell": 12,
+    "output": 1,
+    "title": "import pandas as pd",
+    "width": 1189,
+    "height": 1990,
+    "bytes": 222652
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell012_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 12,
+    "output": 1,
+    "title": "import matplotlib.pyplot as plt",
+    "width": 450,
+    "height": 313,
+    "bytes": 9496
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell015_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 15,
+    "output": 1,
+    "title": "import matplotlib.pyplot as plt",
+    "width": 450,
+    "height": 313,
+    "bytes": 12028
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell018_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 18,
+    "output": 1,
+    "title": "plt.figure(figsize=(5, 3))",
+    "width": 472,
+    "height": 314,
+    "bytes": 13332
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell024_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 24,
+    "output": 1,
+    "title": "from wordcloud import WordCloud",
+    "width": 407,
+    "height": 236,
+    "bytes": 57466
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell033_out02_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 33,
+    "output": 2,
+    "title": "3. 노드 배치",
+    "width": 640,
+    "height": 658,
+    "bytes": 77729
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell036_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 36,
+    "output": 1,
+    "title": "from wordcloud import WordCloud",
+    "width": 407,
+    "height": 236,
+    "bytes": 56609
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell038_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 38,
+    "output": 1,
+    "title": "wc.generate_from_frequencies(dict(star5_counter.most_common(50)))",
+    "width": 407,
+    "height": 236,
+    "bytes": 58616
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell040_out01_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 40,
+    "output": 1,
+    "title": "wc.generate_from_frequencies(dict(star1_counter.most_common(50)))",
+    "width": 407,
+    "height": 236,
+    "bytes": 60269
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_playstore_cell048_out02_1.png",
+    "notebook": "project01_playstore.ipynb",
+    "cell": 48,
+    "output": 2,
+    "title": "3. 노드 배치",
+    "width": 790,
+    "height": 790,
+    "bytes": 93885
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_데이터_수집_Selenium_cell046_out01_1.png",
+    "notebook": "project01_데이터_수집_Selenium.ipynb",
+    "cell": 46,
+    "output": 1,
+    "title": "from wordcloud import WordCloud",
+    "width": 407,
+    "height": 236,
+    "bytes": 60622
+  },
+  {
+    "file": "J:\\저장소\\programming\\potenup3_projects\\potenup3-pj01-project\\output\\portfolio_screenshots\\project01_데이터랩_cell002_out01_1.png",
+    "notebook": "project01_데이터랩.ipynb",
+    "cell": 2,
+    "output": 1,
+    "title": "import matplotlib.pyplot as plt",
+    "width": 569,
+    "height": 452,
+    "bytes": 32554
+  }
+]
